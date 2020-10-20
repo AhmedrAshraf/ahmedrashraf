@@ -270,4 +270,5 @@
 <a href="https://www.facebook.com/profile.php?id=100036508775611" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Ahmed Ashraf" height="30" width="30" /></a>
 <a href="https://instagram.com/ahmedrashraf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="AhmedrAshraf" height="30" width="30" /></a>
 <a href="https://fiverr.com/ahmedrashraf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg" alt="AhmedrAshraf" height="30" width="30" /></a>
+<a href="whatsapp://send?abid=03310334392&text=Hello%2C%20Ahmed!" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/watsapp.svg" alt="AhmedrAshraf" height="30" width="30" /></a>
 </p>
