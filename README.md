@@ -35,6 +35,7 @@
 </p>
 
 <br />
+<i class="devicon-devicon-plain"></i>
 
 <p>Frontend Development </p>
 <p>
