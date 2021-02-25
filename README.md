@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-
 <h1>Hi Brilliant Minds!</h1>
 <p>Hi, I'm Ahmed Ashraf, a Full Stack Developer 🚀 from Pakistan, currently, I'm a Software Developer & Freelancer 👨🏽‍💻 @Upwork, @Fiverr, @freelancer and love to contribute to open source . Beside's programming, I enjoy eating food, traveling and gaming.</p>
 
@@ -35,7 +33,6 @@
 </p>
 
 <br />
-<i class="devicon-devicon-plain"></i>
 
 <p>Frontend Development </p>
 <p>
