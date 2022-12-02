@@ -13,6 +13,6 @@ I'm Ahmed Ashraf From Pakistan, and I do Websites & Mobile Applications developm
 
 
 ## Get-in Touch
-[![My linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmed-ashraf-64899a192/)
 
-<a href="https://wa.me/+923310334392?text=Hi there 👋" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png?20220228223904" style="height:55px;width:55px" /></a>
+[![My linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmed-ashraf-64899a192)
+<a href="https://wa.me/+923310334392?text=Hi there 👋" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png?20220228223904" style="height:60px;width:60px" /></a>
