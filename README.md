@@ -1,5 +1,16 @@
-<h1>Hi Brilliant Minds!</h1>
-<p>Hi, I'm Ahmed Ashraf, a Full Stack Developer 🚀 from Pakistan, currently, I'm a Software Developer & Freelancer 👨🏽‍💻 @Upwork, @Fiverr, @freelancer and love to contribute to open source.</p>
+![Design and Development](https://github.com/AhmedrAshraf/ahmedrashraf/blob/main/WhatsApp%20Image%202022-12-01%20at%2011.22.10%20AM.jpeg)
+
+# Ahmed Ashraf (AhmedrAshraf)
+I'm Ahmed Ashraf From Pakistan, and I do development on Websites & Mobile Applications. I really enjoy learning languages and frameworks like Flutter and GraphQl. I also enjoy teaching & Bug Fixing.
+
+## Skills and Experience
+* ⚛ React
+* ⚛ Next
+* 📱 React Native
+* ⚛ Firebase
+* ⚛ Node
+* ⚛ GraphQl
+* 💻 HTML, CSS, JS
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedrashraf&show_icons=true" alt="ahmedrashraf" /></p>
 
