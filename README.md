@@ -15,4 +15,4 @@ I'm Ahmed Ashraf From Pakistan, and I do Websites & Mobile Applications developm
 ## Get-in Touch
 [![My linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmed-ashraf-64899a192/)
 
-<a href="https://wa.me/+923310334392?text=Hi there 👋" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/124/124034.png?w=360" height="30px" width="30px /></a>
+<a href="https://wa.me/+923310334392?text=Hi there 👋" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/124/124034.png?w=360" /></a>
