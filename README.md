@@ -4,13 +4,7 @@
 I'm Ahmed Ashraf From Pakistan, and I do development on Websites & Mobile Applications. I really enjoy learning languages and frameworks like Flutter and GraphQl. I also enjoy teaching & Bug Fixing.
 
 ## Skills and Experience
-* [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) ReactJS
-* ⚛ Next
-* 📱 React Native
-* ⚛ Firebase
-* ⚛ Node
-* ⚛ GraphQl
-* 💻 HTML, CSS, JS
+* [![My Skills](https://skillicons.dev/icons?i=react, nextjs, firebase, nodejs, apollo, graphqlmongodb, express, js, ts, redux, sass, flutter, bootstrap, materialui, netlify, css, html)]
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedrashraf&show_icons=true" alt="ahmedrashraf" /></p>
 
