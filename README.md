@@ -4,7 +4,7 @@
 I'm Ahmed Ashraf From Pakistan, and I do development on Websites & Mobile Applications. I really enjoy learning languages and frameworks like Flutter and GraphQl. I also enjoy teaching & Bug Fixing.
 
 ## Skills and Experience
-* ⚛ React
+* [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) ReactJS
 * ⚛ Next
 * 📱 React Native
 * ⚛ Firebase
