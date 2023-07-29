@@ -1,5 +1,3 @@
-![Design and Development](https://github.com/AhmedrAshraf/ahmedrashraf/blob/main/WhatsApp%20Image%202022-12-01%20at%2011.22.10%20AM.jpeg)
-
 # Ahmed Ashraf (AhmedrAshraf)
 I'm Ahmed Ashraf From Pakistan, and I do Websites & Mobile Applications development. I have 5 years of experience working with ReactJs & React-Native, I really enjoy learning languages and frameworks like Flutter and GraphQl. I also enjoy teaching.
 
