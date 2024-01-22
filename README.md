@@ -1,6 +1,7 @@
 # Ahmed Ashraf (AhmedrAshraf)
-I'm Ahmed Ashraf From Pakistan, and I do Websites & Mobile Applications development. I have 5 years of experience working with ReactJs & React-Native, I really enjoy learning languages and frameworks like Flutter and GraphQl. I also enjoy teaching.
+Hey, I'm Ahmed Hey, an Experienced Web and Mobile Developer, with a track record of 5+ years in the industry. Proficient in React, React Native, Redux, NextJS, Typescript, JavaScript, and Firebase, I have successfully collaborated with various NFT, Blockchain, Realstate companies, and more, of over 350 satisfied clients.
 
+Let's connect to explore how my expertise can help your ventures thrive.
 
 ## Skills
 ![My Skills](https://skillicons.dev/icons?i=react,nextjs,firebase,nodejs,apollo,graphql,mongodb,express,js,ts,redux,sass,flutter,bootstrap,materialui,netlify,css,html)
@@ -12,5 +13,4 @@ I'm Ahmed Ashraf From Pakistan, and I do Websites & Mobile Applications developm
 
 ## Get-in Touch
 
-[![My linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmed-ashraf-64899a192)
-<a href="https://wa.me/+923310334392?text=Hi there 👋" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png?20220228223904" style="height:50px;width:50px;margin-left:20px" /></a>
+[![My linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmedrashraf)
