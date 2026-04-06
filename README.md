@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Ahmed+Ashraf+%F0%9F%91%8B;Expert+Web+%26+Mobile+Developer+%E2%9A%A1;React+%7C+React+Native+%7C+Next.js+%7C+Firebase;5%2B+Years+%7C+350%2B+Satisfied+Clients+%F0%9F%9A%80;Let's+build+something+amazing!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Ahmed+Ashraf+%F0%9F%91%8B;Expert+Web+%26+Mobile+Developer+%E2%9A%A1;Professor+%7C+5%2C000%2B+Students+Mentored+%F0%9F%8E%93;React+%7C+Next.js+%7C+React+Native+%7C+Firebase;7%2B+Years+%7C+700%2B+Clients+%F0%9F%9A%80;AI-Powered+Developer+%F0%9F%A4%96;Professional+Bug+Fixer+%F0%9F%94%8D;AI+Code+Cleaner+%F0%9F%A7%B9)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=AhmedrAshraf&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 &nbsp;
@@ -15,15 +15,31 @@
 ```typescript
 const ahmed = {
   name: "Ahmed Ashraf",
-  role: "Expert Web & Mobile Developer ⚡",
-  experience: "5+ years",
-  clients: "350+ satisfied clients",
+  role: "Expert Web & Mobile Developer ⚡ | Bug Fixer | AI Code Cleaner | Professor",
+  experience: "7+ years",
+  clients: "700+ satisfied clients",
   location: "Pakistan 🇵🇰",
   company: "Overbes",
   expertise: ["React", "React Native", "Next.js", "TypeScript", "Firebase"],
   industries: ["NFT", "Blockchain", "Real Estate", "E-Commerce"],
+  aiTools: ["ChatGPT", "Claude", "GitHub Copilot", "Cursor AI", "Midjourney", "v0.dev"],
+  superPowers: [
+    "🔍 Highly Professional Bug Fixer",
+    "🧹 AI-Powered Code Cleaner & Refactorer",
+    "⚡ Performance Optimizer"
+  ],
+  superPowers: [
+    "🔍 Highly Professional Bug Fixer",
+    "🧹 AI-Powered Code Cleaner & Refactorer",
+    "⚡ Performance Optimizer"
+  ],
+  teaching: {
+    role: "Professor @ Pakistan's Biggest IT Institute",
+    students: "5,000+ students mentored 🎓",
+    subjects: ["Web Development", "Mobile Apps", "AI Tools", "Modern JavaScript"]
+  },
   contact: "ahmedr.0331@gmail.com",
-  motto: "Let's connect to explore how my expertise can help your ventures thrive 🚀"
+  motto: "Building products. Teaching the next generation. Embracing AI. 🚀"
 };
 ```
 
@@ -54,11 +70,30 @@ const ahmed = {
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### AI Tools I Use Daily
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white)
+![v0.dev](https://img.shields.io/badge/v0.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+## 🎓 Teaching & Mentorship
+
+<div align="center">
+
+| 🏫 Role | 📍 Where | 👨‍🎓 Impact |
+|--------|---------|---------|
+| Professor | Pakistan's Biggest IT Institute | 5,000+ Students Mentored |
+| Subjects | Web Dev · Mobile Apps · AI Tools · Modern JS | Since 2018 |
+
+> *"I don't just build products — I build developers."*
 
 </div>
 
