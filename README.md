@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Ahmed+Ashraf+%F0%9F%91%8B;Expert+Web+%26+Mobile+Developer+%E2%9A%A1;Professor+%7C+5%2C000%2B+Students+Mentored+%F0%9F%8E%93;React+%7C+Next.js+%7C+React+Native+%7C+Firebase;7%2B+Years+%7C+700%2B+Clients+%F0%9F%9A%80;AI-Powered+Developer+%F0%9F%A4%96;Professional+Bug+Fixer+%F0%9F%94%8D;AI+Code+Cleaner+%F0%9F%A7%B9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Ahmed+Ashraf+%F0%9F%91%8B;Expert+Web+%26+Mobile+Developer+%E2%9A%A1;Professor+%7C+5%2C000%2B+Students+Mentored+%F0%9F%8E%93;React+%7C+Next.js+%7C+React+Native+%7C+Firebase;7%2B+Years+%7C+700%2B+Clients+%F0%9F%9A%80;AI-Powered+Developer+%F0%9F%A4%96;Professional+Bug+Fixer+%F0%9F%94%8D;AI+Code+Cleaner+%F0%9F%A7%B9;Top+Rated+Seller+on+Fiverr+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=AhmedrAshraf&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 &nbsp;
@@ -15,10 +15,10 @@
 ```typescript
 const ahmed = {
   name: "Ahmed Ashraf",
-  role: "Expert Web & Mobile Developer ⚡ | Bug Fixer | AI Code Cleaner | Professor",
+  role: "Expert Web & Mobile Developer ⚡ | Top Rated Fiverr Seller | Professor",
   experience: "7+ years",
   clients: "700+ satisfied clients",
-  location: "Pakistan 🇵🇰",
+  location: "Pakistan | Available on USA Timezone 🕐 (EST/PST)",
   company: "Overbes",
   expertise: ["React", "React Native", "Next.js", "TypeScript", "Firebase"],
   industries: ["NFT", "Blockchain", "Real Estate", "E-Commerce"],
@@ -99,6 +99,27 @@ const ahmed = {
 
 ---
 
+## 🏅 Fiverr Achievement
+
+<div align="center">
+
+![Fiverr Top Rated](https://img.shields.io/badge/Fiverr-Top%20Rated%20Seller-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)
+![Level](https://img.shields.io/badge/Level-Top%20Rated-FFD700?style=for-the-badge)
+![Clients](https://img.shields.io/badge/Clients-700%2B%20Satisfied-blue?style=for-the-badge)
+
+| Metric | Achievement |
+|--------|------------|
+| Seller Level | Top Rated Seller |
+| Clients Served | 700+ |
+| Response Rate | Always Fast |
+| Speciality | Web & Mobile Development |
+
+> *"Trusted by 700+ clients worldwide on Fiverr — delivering quality, on time, every time."*
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -142,6 +163,7 @@ const ahmed = {
 
 <div align="center">
 
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/ahmedrashraf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedrashraf)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedr.0331@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/AhmedAshrafDEV)
