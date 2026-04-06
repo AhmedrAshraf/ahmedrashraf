@@ -107,15 +107,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedrAshraf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedrAshraf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="180" alt="stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedrAshraf&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedrAshraf&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180" alt="languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmedrAshraf&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img src="https://streak-stats.demolab.com/?user=AhmedrAshraf&theme=tokyonight&hide_border=true&fire=FF6B35&ring=0078D4&currStreakLabel=0078D4" alt="streak"/>
 </div>
 
 ---
@@ -123,7 +123,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedrAshraf&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AhmedrAshraf&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="trophies"/>
 </div>
 
 ---
