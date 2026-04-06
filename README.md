@@ -14,27 +14,19 @@
 
 ## 🧑‍💻 About Me
 
-```typescript
-const ahmed = {
-  name:        "Ahmed Ashraf",
-  role:        "Expert Web & Mobile Developer ⚡ | Top Rated Fiverr Seller | Professor",
-  experience:  "7+ years",
-  clients:     "700+ satisfied clients",
-  location:    "Pakistan 🇵🇰",
-  company:     "Overbes",
-  expertise:   ["React", "React Native", "Next.js", "TypeScript", "Firebase", "Supabase"],
-  industries:  ["NFT", "Blockchain", "Real Estate", "E-Commerce"],
-  aiTools:     ["ChatGPT", "Claude", "GitHub Copilot", "Cursor AI", "Midjourney", "v0.dev"],
-  superPowers: ["🔍 Professional Bug Fixer", "🧹 AI Code Cleaner & Refactorer", "⚡ Performance Optimizer"],
-  teaching: {
-    role:     "Professor @ Pakistan's Biggest IT Institute",
-    students: "5,000+ students mentored 🎓",
-    subjects: ["Web Dev", "Mobile Apps", "AI Tools", "Modern JavaScript"],
-  },
-  contact:  "ahmedr.0331@gmail.com",
-  motto:    "Building products. Teaching the next generation. Embracing AI. 🚀",
-};
-```
+> 🚀 **Building products. Teaching the next generation. Embracing AI.**
+
+<div align="center">
+
+| 🗓️ Experience | 🤝 Clients | 🎓 Students | 🌍 Location |
+|:---:|:---:|:---:|:---:|
+| **7+ Years** | **700+ Satisfied** | **5,000+ Mentored** | **Pakistan 🇵🇰** |
+
+| ⚡ Role | 🏆 Fiverr | 🏫 Institute | 🔍 Superpower |
+|:---:|:---:|:---:|:---:|
+| **Web & Mobile Dev** | **Top Rated Seller** | **Professor** | **Bug Fixer & AI Code Cleaner** |
+
+</div>
 
 ---
 
@@ -164,4 +156,4 @@ const ahmed = {
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:58A6FF&height=100&section=footer" />
-</div>
+</div>****
