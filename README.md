@@ -18,13 +18,17 @@
 
 <div align="center">
 
-| 🗓️ Experience | 🤝 Clients | 🎓 Students | 🌍 Location |
-|:---:|:---:|:---:|:---:|
-| **7+ Years** | **700+ Satisfied** | **5,000+ Mentored** | **Pakistan 🇵🇰** |
+![Experience](https://img.shields.io/badge/Experience-7%2B_Years-0078D4?style=for-the-badge&logo=clock&logoColor=white)
+![Clients](https://img.shields.io/badge/Clients-700%2B_Satisfied-1DBF73?style=for-the-badge&logo=handshake&logoColor=white)
+![Students](https://img.shields.io/badge/Students-5%2C000%2B_Mentored-FF6B35?style=for-the-badge&logo=academia&logoColor=white)
+![Timezone](https://img.shields.io/badge/Timezone-USA_EST_%2F_PST-6C3483?style=for-the-badge&logo=clockify&logoColor=white)
 
-| ⚡ Role | 🏆 Fiverr | 🏫 Institute | 🔍 Superpower |
-|:---:|:---:|:---:|:---:|
-| **Web & Mobile Dev** | **Top Rated Seller** | **Professor** | **Bug Fixer & AI Code Cleaner** |
+<br/>
+
+![Role](https://img.shields.io/badge/Role-Web_%26_Mobile_Developer-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Fiverr](https://img.shields.io/badge/Fiverr-Top_Rated_Seller_%F0%9F%8F%86-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)
+![Professor](https://img.shields.io/badge/Professor-Pakistan's_Biggest_IT_Institute-FF6B35?style=for-the-badge&logo=google-scholar&logoColor=white)
+![Superpower](https://img.shields.io/badge/Superpower-Bug_Fixer_%26_AI_Code_Cleaner-6C3483?style=for-the-badge&logo=codesandbox&logoColor=white)
 
 </div>
 
@@ -156,4 +160,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:58A6FF&height=100&section=footer" />
-</div>****
+</div>
